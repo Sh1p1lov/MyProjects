@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Release\net5.0\publish\TicTacToeServer.pdb
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Release\net5.0\publish\clrcompression.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Release\net5.0\publish\clrjit.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Release\net5.0\publish\coreclr.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Release\net5.0\publish\mscordaccore.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Release\net5.0\publish\TicTacToeServer.exe

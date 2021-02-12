@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\bin\Release\netcoreapp3.1\TicTacToeTestClient.exe
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\bin\Release\netcoreapp3.1\TicTacToeTestClient.deps.json
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\bin\Release\netcoreapp3.1\TicTacToeTestClient.runtimeconfig.json
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\bin\Release\netcoreapp3.1\TicTacToeTestClient.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\bin\Release\netcoreapp3.1\TicTacToeTestClient.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\bin\Release\netcoreapp3.1\TicTacToeTestClient.pdb
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.AssemblyInfo.cs
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.pdb
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\TicTacToeTestClient\obj\Release\netcoreapp3.1\TicTacToeTestClient.genruntimeconfig.cache

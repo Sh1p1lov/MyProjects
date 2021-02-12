@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\TicTacToeServer.exe
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\TicTacToeServer.deps.json
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\TicTacToeServer.runtimeconfig.json
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\TicTacToeServer.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\TicTacToeServer.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\ref\TicTacToeServer.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\bin\Debug\net5.0\TicTacToeServer.pdb
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.AssemblyInfo.cs
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\ref\TicTacToeServer.dll
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.pdb
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.genruntimeconfig.cache
+C:\Users\USER\Desktop\Комп сети 4-й семестр\Курсовая по КС\Крестики-Нолики\Tic Tac Toe Server\Tic Tac Toe Server\obj\Debug\net5.0\TicTacToeServer.csprojAssemblyReference.cache
